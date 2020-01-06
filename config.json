@@ -11,7 +11,7 @@
     "settings": {
       "clients": [
         {
-          "id": "xyz", #上面保存到记事本的uuid
+          "id": "abc-xyz", #上面保存到记事本的uuid
           "alterId": 64
         }
       ]

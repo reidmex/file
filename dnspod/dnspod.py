@@ -142,6 +142,6 @@ class DNSPod(object):
 
 if __name__ == '__main__':
     opts = getopts()
-    conf = yaml.load(open(os.path.join(os.path.dirname(os.path.realpath(__file__)), opts.config), "r"))
+    conf = yaml.load(open(os.path.join(os.path.dirname(os.path.realpath(__file__)), opts.config), "r"), Loader=yaml.FullLoader)
     dnspod = DNSPod(conf)
     dnspod.run()

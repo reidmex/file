@@ -1,0 +1,76 @@
+#任务列表
+tasks:
+  ydy #任务名称:伊甸园
+    rss:
+      url: xxx #rss地址
+      other_fields:
+        - link
+    nexusphp: #启用nexusphp.py插件，路径：~/.flexget/plugins/
+      cookie: 'you_cookie'  # 必填
+      discount:  # 优惠信息 选填
+        - free
+        - 2x
+        - 2x50%
+        - 2xfree
+        - 50%
+        - 30%
+      seeders:  # 做种情况 选填
+        min: 1
+        max: 5
+      leechers:  # 下载情况 选填
+        min: 3
+        max: 100
+        max_complete: 0.5
+      hr: no  # 是否下载HR 选填
+      adapter:  # 站点适配器
+        free: free
+        2x: twoup
+        2xfree: twoupfree
+        30%: thirtypercent
+        50%: halfdown
+        2x50%: twouphalfdown      
+      user-agent: xxx  #指定user-agent，针对馒头开启二次验证
+      comment: no  # 在torrent注释中添加详情链接
+    download: /media/2t/rss/
+
+#使用WebUI
+web_server: #使用webui
+  bind: 0.0.0.0
+  port: 8060
+  web_ui: yes
+  run_v2: yes
+
+#定时任务
+schedules: #5分钟更新一次
+# - tasks: '*'
+  - tasks: [keepfrds, yingk]
+    interval:
+      minutes: 5
+
+#任务列表
+tasks:
+  keepfrds: #任务名称:朋友
+    rss: xxx #rss地址
+    accept_all: yes #是否全部下载
+    download: /media/2t/rss/ #flexget种子下载目录
+
+    accept_all: no #是否全部下载
+    if:
+      - "'TJUPT' in title": accept #标题含有TJUPT就下载
+
+    free_space: #启用磁盘可用空间过滤
+      path: /media/2t/ #磁盘路径
+      space: 100000 #可用空间小于100G就不下载
+
+    content_size: #启用文件大小过滤
+      min: 1000 #文件小于1G就不下载
+      max: 100000 #文件大于100G就不下载
+      strict: no #不要动
+
+    qbittorrent: yes # qbittorrent相关配置，如果不想详细配置，填写yes即可，flexget会遵循qbt的默认设置
+      host: xxxxx # 指定qbittorrent的地址，如果在本机可填写localhost
+      port: 8080 # 指定qbittorrent的监听地址，因为无法下载种子，这里不确定填写qbt的web监听地址（默认为8080）还是qbt的监听地址（默认为8999）
+      username: xxx # 指定qbt的登录用户名和密码，如果qbt中开启了忽略本地身份验证，这两项可以不填
+      password: xxx
+      label: frds
+      path: /media/2t/

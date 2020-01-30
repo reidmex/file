@@ -1,0 +1,20 @@
+#任务列表
+tasks:
+  ssd: #任务名称:春天
+    rss:
+      url: https://springsunday.net/torrentrss.php?rows=10&linktype=dl&passkey=abc #rss地址
+      other_fields:
+        - link
+    nexusphp: #启用nexusphp.py插件，路径：~/.flexget/plugins/
+      cookie: 'xyz' #Cookie
+      discount: #促销种子过滤
+        - free
+        - 2xfree
+      seeders: #做种人数过滤
+        min: 1
+        max: 5
+      leechers: #下载人数和下载完成率过滤
+        min: 3
+        max_complete: 0.5
+      hr: no #不下载HR种子
+    download: /media/1t/rss/

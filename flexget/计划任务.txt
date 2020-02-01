@@ -1,0 +1,8 @@
+*/5 * * * * /opt/bin/flexget -c /root/.flexget/ssd.yml execute
+#*/5 * * * * /opt/bin/flexget -c /root/.flexget/frds.yml execute
+#*/5 * * * * /opt/bin/flexget -c /root/.flexget/sky.yml execute
+#*/5 * * * * /opt/bin/flexget -c /root/.flexget/chd.yml execute
+#*/10 * * * * /opt/bin/flexget -c /root/.flexget/ttg.yml execute
+
+≤‚ ‘
+/opt/bin/flexget -c /root/.flexget/ssd.yml --test execute

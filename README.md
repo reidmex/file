@@ -1,11 +1,11 @@
 制作压缩包  
 ```
-tar -zcvf transmission-2.94.tar.gz ./
+tar -zcvf abc.tar.gz ./
 ```
 解压到指定目录/或root    
 ```
-tar -xzvf transmission-2.94.tar.gz -C /
-tar -xzvf transmission-2.94.tar.gz -C /root
+tar -xzvf abc.tar.gz -C /
+tar -xzvf abc.tar.gz -C /root
 ```
 
 #### 一键DD脚本

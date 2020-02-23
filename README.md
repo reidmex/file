@@ -1,3 +1,13 @@
+制作压缩包  
+```
+tar -zcvf transmission-2.94.tar.gz ./
+```
+解压到指定目录/或root    
+```
+tar -xzvf transmission-2.94.tar.gz -C /
+tar -xzvf transmission-2.94.tar.gz -C /root
+```
+
 #### 一键DD脚本
 dd-gd.sh
 InstallNET.sh

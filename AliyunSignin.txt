@@ -8,8 +8,8 @@ PUSHPLUS_TOKEN = e3980c2875184b9bbfce76095802c74c
 name: Aliyun Signin
 on:
   schedule:
-   # 每天国际时间 17:30 运行一次, 中国时间 01:30
-    - cron: '30 17 * * *'
+   # 每天国际时间 12:30 运行一次, 中国时间 20:30
+    - cron: '30 12 * * *'
   workflow_dispatch:
 jobs:
   signin:

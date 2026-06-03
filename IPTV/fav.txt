@@ -41,4 +41,7 @@ CCTV15音乐,http://222.223.41.27:8888/hls/15/index.m3u8
 内蒙古卫视,http://222.223.41.27:8888/hls/49/index.m3u8
 青海卫视,http://222.223.41.27:8888/hls/50/index.m3u8
 4K超清,#genre#
+浙江卫视4K,
+江苏卫视4K,
+湖南卫视4K,
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8

@@ -47,7 +47,7 @@ CCTV15音乐,http://222.223.41.27:8888/hls/15/index.m3u8
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 港澳台,#genre#
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-TVB明珠,
+TVB明珠,http://mytv.cdn.loc.cc/o12.php?id=mzt
 TVB星河,
 TVB翡翠剧集台,
 凤凰卫视,

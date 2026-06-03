@@ -49,7 +49,7 @@ CCTV15音乐,http://222.223.41.27:8888/hls/15/index.m3u8
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB明珠,http://mytv.cdn.loc.cc/o12.php?id=mzt
 TVB星河,http://cdn6.163189.xyz/163189/tvbxh
-TVB翡翠剧集台,
+TVB翡翠剧集台,http://cdn6.163189.xyz/163189/tvbd
 凤凰卫视,
 凤凰中文,
 凤凰资讯,

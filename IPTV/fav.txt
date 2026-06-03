@@ -53,4 +53,4 @@ TVB翡翠剧集台,http://cdn6.163189.xyz/163189/tvbd
 凤凰卫视,
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
-凤凰香港,
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk

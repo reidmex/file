@@ -47,6 +47,7 @@ CCTV4K,http://113.110.200.20:55555/rtp/239.77.1.180:5146
 湖南卫视4K,http://8.138.7.223/tv/api.php?id=hnws4k
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 深圳卫视4K,http://113.110.200.20:55555/rtp/239.77.1.14:5146
+广东卫视4K,http://113.110.200.20:55555/rtp/239.77.0.65:5146
 港澳台,#genre#
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB明珠,http://mytv.cdn.loc.cc/o12.php?id=mzt

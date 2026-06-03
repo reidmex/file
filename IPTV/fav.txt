@@ -51,6 +51,6 @@ TVB明珠,http://mytv.cdn.loc.cc/o12.php?id=mzt
 TVB星河,http://cdn6.163189.xyz/163189/tvbxh
 TVB翡翠剧集台,http://cdn6.163189.xyz/163189/tvbd
 凤凰卫视,
-凤凰中文,
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,
 凤凰香港,

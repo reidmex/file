@@ -57,13 +57,6 @@ TVB翡翠剧集台,http://cdn6.163189.xyz/163189/tvbd
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-影视台,#genre#
-HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-其它,#genre#
-DISCOVERY,http://41.205.93.154/DISCOVERY/tracks-v1a1/mono.m3u8
-DISCOVERY,http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031928&extension=ts&play_token=aoAkuxf4sh
-DISCOVERY,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-测试,#genre#
 功夫台,https://cdn6.163189.xyz/163189/yzwx
 翡翠台1,http://mytv.cdn.loc.cc/o12.php?id=fct
 无线翡翠,https://cdn6.163189.xyz/163189/fct
@@ -75,16 +68,41 @@ DISCOVERY,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 无线华丽,http://rihou.cc:555/tv/[Pd]无线华丽
 无线星河,http://rihou.cc:555/tv/[Pd]无线星河
 无线功夫,http://rihou.cc:555/tv/[Pd]无线功夫
-TVB黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
-TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
-MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
-TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-千禧經典,http://iptv.4666888.xyz/iptv2A.php?id=22
-TVB黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
-TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
-TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
-TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
+影视台,#genre#
+HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+其它,#genre#
+DISCOVERY,http://41.205.93.154/DISCOVERY/tracks-v1a1/mono.m3u8
+DISCOVERY,http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031928&extension=ts&play_token=aoAkuxf4sh
+DISCOVERY,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+测试,#genre#
+凤凰香港,http://r.jdshipin.com/yDoTN
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/qrfbg
+无线新闻,http://r.jdshipin.com/CkuBd
+明珠台,http://r.jdshipin.com/ZQ4kN
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB星河,http://r.jdshipin.com/sXuuD
+TVB星河,http://r.jdshipin.com/Voac4
+华丽翡翠台,http://r.jdshipin.com/thuYX
+TVB翡翠HD,http://120.238.5.44:1698/hls/83/index.m3u8
+TVB武侠,https://cdn6.163189.xyz/163189/yzwx
+翡翠台(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct/
+TVBPlus(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
+华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+TVB星河(多音轨字幕),http://120.238.5.44:1698/hls/88/index.m3u8
+TVB经典HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGVVpMwZ6hyPzB3VxOQQURmyS-lMNJUPk_jp3YW0uV_qvG2B3gl3Q3mLtwKTrl-Z3GtIIAk9uHtTWaDp_7Zl4XQXLYnigqJXA1E7o0wTcL88uso9AjrIt_Yo47o80Ipb3rAGUHRqDL79I8VSCTayOQhUrPfHoFIZAzaH9NebrducA28BBbiS4Gqt-mfwbfpImFOXchNOWgFwhJ0qWNasSAg.m3u8?u=1756878715
+TVB经典HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGVVpMwZ6hyPzB3VxOQQURmyS-lMNJUPk_jp3YW0uV_qvG2B3gl3Q3mLtwKTrl-Z3GtIIAk9uHtTWaDp_7Zl4XQXLYnigqJXA1E7o0wTcL88uso9AjrIt_Yo47o80Ipb3rAGUHRqDL79I8VSCTayOQhUrPfHoFIZAzaH9NebrducA28BBbiS4Gqt-mfwbfpImFOXchNOWgFwhJ0qWNasSAg.m3u8?u=1756878715
+TVB经典HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGVVpMwZ6hyPzB3VxOQQURmyS-lMNJUPk_jp3YW0uV_qvG2B3gl3Q3mLtwKTrl-Z3GtIIAk9uHtTWaDp_7Zl4XQXLYnigqJXA1E7o0wTcL88uso9AjrIt_Yo47o80Ipb3rAGUHRqDL79I8VSCTayOQhUrPfHoFIZAzaH9NebrducA28BBbiS4Gqt-mfwbfpImFOXchNOWgFwhJ0qWNasSAg.m3u8?u=1756878715
+(粤)TVB星河,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU7GKgY5vclV14DebjdctN_RogCLgXqWl5ncD5fDNw1tIda89W_KYli82eyoVngGETDzJbwvTr9jX-9yr1c0Plqznc91-t59PVT-PXUiorZyoZjTn-L1CE6tMlG3GHuM0fDZkYvhbte6f6HBE4fVpTRBRp2qwomzilMPnMCE6jXKwIVZBfV4r9F2h6vAm-0TfyREUcTZ7VY9g_cKerjEywyw.m3u8?u=1756878715
+(粤)TVB星河,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU7GKgY5vclV14DebjdctN_RogCLgXqWl5ncD5fDNw1tIda89W_KYli82eyoVngGETDzJbwvTr9jX-9yr1c0Plqznc91-t59PVT-PXUiorZyoZjTn-L1CE6tMlG3GHuM0fDZkYvhbte6f6HBE4fVpTRBRp2qwomzilMPnMCE6jXKwIVZBfV4r9F2h6vAm-0TfyREUcTZ7VY9g_cKerjEywyw.m3u8?u=1756878715
+TVB戏曲,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUVr3twGdTnpuHxexs8xJKDbo2eQJJx1fM-DkgZ6QDaMo6JQHFGwKOAqLXa_NmpbrR-i7Beus8jL6lIn4ICwp5ARl5kwVzAqDA8iU_fw2R1CK2dYljoq7afYSKolQ7CBLRjGns1EwykcOlo3-AncnKJbEDwRcvIf-Hwl5UF1CBdkDDt2_cwB9F_TB_sznjrnoF6NiqEbtKSAjfZOwSOEfaySuyRETnCt6v1di8KSHSZr8.m3u8?u=1756878715
+TVB戏曲,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUVr3twGdTnpuHxexs8xJKDbo2eQJJx1fM-DkgZ6QDaMo6JQHFGwKOAqLXa_NmpbrR-i7Beus8jL6lIn4ICwp5ARl5kwVzAqDA8iU_fw2R1CK2dYljoq7afYSKolQ7CBLRjGns1EwykcOlo3-AncnKJbEDwRcvIf-Hwl5UF1CBdkDDt2_cwB9F_TB_sznjrnoF6NiqEbtKSAjfZOwSOEfaySuyRETnCt6v1di8KSHSZr8.m3u8?u=1756878715
+TVB黃金華劇,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUQjvVFeCCpIIGhOgkDXPg7MYz11wusehbcDMnpOMrO4J2kh0BiRIUI4PSi6oclQQxBEa3LWDPEk4alHzn4Ghlw7Ivy2lTajLtB0MZkQ024TiQMWZE-gnOi7sb615G5YK5_06gn4BIF1FZrDDmX-eioR2qBcLVRM2lcVafyXpNfAaMWuoZ4efura2yNaZy2YbITkWxN4XfxdFxzwV3rMZAdFXeAoMCwMCMdVUt8_zqJN0.m3u8?u=1756878715
+TVB黃金翡翠,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUxxL1--UxpftQ8Xs-VxVuXRk0-_8P0MsgZvayqOumBh0XJAp8mmboompRTJU71LLI3z5fFMFL9Kggr7tAQKOIgsHPddS7WrZM6ZGrHZvUstV2XrHOpzTFIJ4tbMlZj-m81zGhlTcJTNOEURnfCEVu38kWxz59RskZ2Zbgy5qoszm_lpSgXQvhXz1j5twetwQ_4WAPk_s6SIQk0XdUpthjjTtSPxImgz3cj5BhQI1x4Sk.m3u8?u=1756878715
+TVB功夫台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUUozK_Ksd89ERNm_NAUBu1-2KloEDbSnxQMhdxYThJ_6LbsKyNNJMwXn-v4ExhSVYAYpe90fGSiM5BW53IHKkDMMGREPxHKV30dVCx7Y9MdzaMQBGvniPzTaiAUAW5zJNvjWtXvkW_dDeVfcnSeK3KlxrrwYwNGyVJ0dfij06HLRT2ckA9eUdrDJjji4aBmxo9wE8V6AvQ9yIgsvBD3PXFfdxJIxduTZ-1H2ZjEXj_J8.m3u8?u=1756878715
 
 

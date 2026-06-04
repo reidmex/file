@@ -59,3 +59,14 @@ TVB翡翠剧集台,http://cdn6.163189.xyz/163189/tvbd
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 影视台,#genre#
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO,http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO 2,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
+HBO ZONE,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+CINEMAX电影台,http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+DISCOVERY,http://41.205.93.154/DISCOVERY/tracks-v1a1/mono.m3u8
+Discovery Channel,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+discovery.http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
+discovery channel,http://46.32.176.50/discoverychannel/index.m3u8
+discovery channel,http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031928&extension=ts&play_token=aoAkuxf4sh
+discovery channel JAPAN,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
